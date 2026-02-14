@@ -24,18 +24,20 @@
 ---
 
 ### 🚀 Чем я занимаюсь?
-<table border="none">
- <tr>
-  <td width="100%" valign="top">
-    <h4>💻 Программирование</h4>
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  </td>
- </tr>
-</table>
+   <h4>💻 Программирование</h4>
 
+<a href="#">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+<a href="https://t.me/cindynightpupsikarts">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</a>
+<a href="#">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</a>
+<a href="#">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</a>
 ---
 
 ### 📫 Связаться со мной
