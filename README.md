@@ -26,14 +26,7 @@
 ### 🚀 Чем я занимаюсь?
 <table border="0">
  <tr>
-  <td width="50%" valign="top">
-    <h4>🎨 Арт и Дизайн</h4>
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-    <img src="https://img.shields.io/badge/Aseprite-7D55EC?style=for-the-badge&logo=Aseprite&logoColor=white" />
-    <img src="https://img.shields.io/badge/Blockbench-212E3C?style=for-the-badge&logo=Blockbench&logoColor=orange" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  </td>
-  <td width="50%" valign="top">
+  <td width="100%" valign="top">
     <h4>💻 Программирование</h4>
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
