@@ -6,7 +6,7 @@
       <circle cx="100" cy="100" r="100" />
     </clipPath>
   </defs>
-  <image width="200" height="200" href="./hero-action.jpg" clip-path="url(#circleView)" />
+  <img width="200" height="200" src="./hero-action.jpg" clip-path="url(#circleView)" />
 </svg>
 
 # 🎨 2D Artist & Designer
