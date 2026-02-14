@@ -1,8 +1,13 @@
 <div align="center">
 
-<p align="center">
-  <img src="./hero-action.jpg" width="200" style="border-radius: 200px">
-</p>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="circleView">
+      <circle cx="100" cy="100" r="100" />
+    </clipPath>
+  </defs>
+  <image width="200" height="200" href="hero-action.jpg" clip-path="url(#circleView)" />
+</svg>
 
 # 🎨 2D Artist & Designer
 
