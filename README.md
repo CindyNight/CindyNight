@@ -24,7 +24,7 @@
 ---
 
 ### 🚀 Чем я занимаюсь?
-<table>
+<table border="none">
  <tr>
   <td width="100%" valign="top">
     <h4>💻 Программирование</h4>
