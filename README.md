@@ -6,59 +6,58 @@
       <circle cx="100" cy="100" r="100" />
     </clipPath>
   </defs>
-  <img width="200" height="200" src="./hero-action.jpg" clip-path="url(#circleView)" />
+  <image width="200" height="200" href="./hero-action.jpg" clip-path="url(#circleView)" />
 </svg>
 
 # 🎨 2D Artist & Designer
 
-<br/>
-
 ### 👋 Обо мне
-Я обычный 2D-художник и дизайнер, увлеченный созданием визуальных миров.
-В данный момент я являюсь частью команды глобального проекта:
-<br/>
+Я обычный 2D-художник и дизайнер, увлеченный созданием визуальных миров.  
+Сейчас я работаю над глобальным проектом:  
 🎮 [FNaF's: Universe & Fanverse (Minecraft Mod)](#)
-
-<br/>
 
 ---
 
-### 🚀 Чем я занимаюсь?
+### 🚀 Мои навыки и инструменты
 
-<br/>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h4>🎨 Art & Design</h4>
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/Aseprite-7D55EC?style=for-the-badge&logo=aseprite&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Blockbench-212E3C?style=for-the-badge&logo=blockbench&logoColor=orange" />
+    </td>
+    <td align="center" width="50%">
+      <h4>💻 Programming</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
+<p align="center">
+  <b>IDE:</b> 
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>
 
-## 💻 Программирование
-
-<a href="#">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</a>
-<a href="https://t.me/cindynightpupsikarts">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</a>
-
-   <br/>
-   <br/>
+---
 
 ### 📫 Связаться со мной
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="https://t.me/cindynightpupsikarts">
+<a href="https://t.me/cindynightpupsikarts" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-<a href="#">
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="#" target="_blank">
   <img src="https://img.shields.io/badge/ArtStation-131313?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation"/>
 </a>
 
 <br/>
-<br/>
+
+*🎨 Рисую на заказ | Постепенно погружаюсь в кодинг 💻*
 
 </div>
