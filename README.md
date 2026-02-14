@@ -26,9 +26,6 @@
 ### 🚀 Чем я занимаюсь?
    <h4>💻 Программирование</h4>
 
-   <br/>
-   <br/>
-
 <a href="#">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a>
@@ -41,6 +38,9 @@
 <a href="#">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </a>
+
+   <br/>
+   <br/>
 
 ### 📫 Связаться со мной
 
