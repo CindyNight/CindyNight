@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./hero-action.jpg" width="200" style="border-radius:50%">
+  <img src="./hero-action.jpg" width="200" style="border-radius: 200px">
 </p>
 
 # 🎨 2D Artist & Designer
