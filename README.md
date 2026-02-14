@@ -52,6 +52,4 @@
 <br/>
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИКНЕЙМ&show_icons=true&theme=radical&hide_border=true)
-
 </div>
