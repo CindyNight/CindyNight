@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./hero-action.png" width="200" align="center">
+<img src="./hero-action.jpg" width="200" align="center">
 
 # 🎨 2D Artist & Designer
 
