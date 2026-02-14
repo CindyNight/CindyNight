@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./hero-action.jpg" width="200" align="center">
+<p align="center">
+  <img src="https://github.com/ВАШ_НИК.jpg?size=200" width="200" style="border-radius:50%">
+</p>
 
 # 🎨 2D Artist & Designer
 
