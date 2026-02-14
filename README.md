@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=250&section=header&text=Привет!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Добро%20пожаловать%20в%20мой%20профиль&descAlignY=55&descAlign=50" width="100%"/>
+<img src="hero-action.jpg" width="100%"/>
 
 # 🎨 2D Artist & Designer
 
