@@ -18,7 +18,6 @@
 В данный момент я являюсь частью команды глобального проекта:
 <br/>
 🎮 [FNaF's: Universe & Fanverse (Minecraft Mod)](#)
-<br/>*(Здесь можно вставить ссылку на мод)*
 
 <br/>
 
@@ -33,17 +32,6 @@
 | • Открыт для заказов (Commissions Open) ✅ | • Разбираюсь, как работают игры изнутри |
 
 <br/>
-
----
-
-### 🛠 Мой инструментарий
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Aseprite](https://img.shields.io/badge/Aseprite-7D55EC?style=for-the-badge&logo=Aseprite&logoColor=white)
-![Blockbench](https://img.shields.io/badge/Blockbench-212E3C?style=for-the-badge&logo=Blockbench&logoColor=orange)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
 
