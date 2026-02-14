@@ -22,13 +22,7 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h4>🎨 Art & Design</h4>
-      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Aseprite-7D55EC?style=for-the-badge&logo=aseprite&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Blockbench-212E3C?style=for-the-badge&logo=blockbench&logoColor=orange" />
-    </td>
-    <td align="center" width="50%">
+    <td align="center" width="100%">
       <h4>💻 Programming</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/>
