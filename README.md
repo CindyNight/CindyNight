@@ -38,11 +38,11 @@
 <a href="https://t.me/cindynightpupsikarts" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-<a href="#" target="_blank">
+<a href="https://discord.gg/GdTdEP84EF" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/gamejolt-131313?style=for-the-badge&logo=gamejolt&logoColor=green" alt="ArtStation"/>
+<a href="https://gamejolt.com/@CommunismIsTea" target="_blank">
+  <img src="https://img.shields.io/badge/gamejolt-131313?style=for-the-badge&logo=gamejolt&logoColor=white" alt="ArtStation"/>
 </a>
 
 <br/>
