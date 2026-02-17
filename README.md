@@ -19,9 +19,9 @@
   <tr>
     <td align="center" width="100%">
       <h4>🌺☕✨ ..Programming.. ✨☕🌺</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=py" /><br/>
+      <img src="https://skillicons.dev/icons?i=cs" /><br/>
+      <img src="https://skillicons.dev/icons?i=cpp" />
     </td>
   </tr>
 </table>
