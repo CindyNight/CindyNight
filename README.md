@@ -9,7 +9,7 @@
 ### 🌺☕✨ ..Обо мне.. ✨☕🌺
 -- ..Я обычный 2D-художник и дизайнер, увлеченный созданием визуальных миров.  
 Сейчас я работаю над глобальным проектом:  
-🍇👻🔮 ..[FNaF's: Universe & Fanverse (Minecraft Mod)]..(https://discord.gg/Bf3gJPmX8Y) 🔮👻🍇
+🍇👻🔮 [FNaF's: Universe & Fanverse (Minecraft Mod)](https://discord.gg/Bf3gJPmX8Y) 🔮👻🍇
 
 ---
 
