@@ -19,8 +19,8 @@
   <tr>
     <td align="center" width="100%">
       <h4>🌺☕✨ ..Programming.. ✨☕🌺</h4>
-      <img src="https://skillicons.dev/icons?i=py" />
       <img src="https://skillicons.dev/icons?i=cs" />
+      <img src="https://skillicons.dev/icons?i=py" />
       <img src="https://skillicons.dev/icons?i=cpp" />
     </td>
   </tr>
