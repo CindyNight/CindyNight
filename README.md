@@ -1,7 +1,7 @@
 <div align="center">
 
 <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-  <img width="200" height="2000" src="./heroActionCircle.png" />
+  <img width="200" height="2000" src="./Без названия284_20260217172230.png" />
 </svg>
 
 # 🎨 2D Artist & Designer
