@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/ArtStation-131313?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation"/>
+  <img src="https://img.shields.io/badge/gamejolt-131313?style=for-the-badge&logo=gamejolt&logoColor=green" alt="ArtStation"/>
 </a>
 
 <br/>
