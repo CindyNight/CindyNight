@@ -6,7 +6,7 @@
       <circle cx="100" cy="100" r="100" />
     </clipPath>
   </defs>
-  <img width="200" height="2000" src="./hero-action.jpg" />
+  <img width="200" height="2000" src="./heroActionCircle.jpg" />
 </svg>
 
 # 🎨 2D Artist & Designer
